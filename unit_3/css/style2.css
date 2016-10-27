@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+	background: url("image/pinkwall.jpg");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+}
+h1 {
+	font-style: bold;
+	font-size: 2.5em;
+	text-decoration: underline;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+.important {
+	font-size: 22px
+}
+
+ul {
+	font-style: bold;
+}
