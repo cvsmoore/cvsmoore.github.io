@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:500|Taviraj');
+
 body {
 	text-align: center;
 	background: url("image/pinkwall.jpg");
 	background-size: cover;
 	color: #fff;
-	font-family: Helvetica;
+	font-family: 'Catamaran';
 }
 h1 {
 	font-style: bold;
@@ -13,6 +15,7 @@ h1 {
 
 #slogan {
 	font-style: italic;
+	font: 'Taviraj';
 }
 
 .important {

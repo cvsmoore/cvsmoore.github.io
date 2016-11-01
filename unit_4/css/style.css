@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran:500|Taviraj');
+
+body {
+	text-align: center;
+	background: url("image/Studio Image.jpg");
+	background-size: cover;
+	color: #FFF;
+	font-family: 'Catamaran'
+}
+
+h1 {
+	font-style: bold;
+	font-size: 2em;
+	text-decoration: underline;
+}
+
+#slogan {
+	font-style: italic;
+	font: 'Taviraj';
+	background-color: black;
+	margin: -10px;
+	opacity: .6;
+}
+
+
+.important {
+	font-size: 22px
+	line-height: 1.5em;
+	color: red;
+  	margin: 30px;
+  	background: url("image/pinkwall.jpg");
+  	background-size: cover;
+  	opacity: .5;
+}
+
+ul {
+	font-style: bold;
+	list-style-type: none;
+	margin-left: 4em;
+	margin-right: 7em;
+}
