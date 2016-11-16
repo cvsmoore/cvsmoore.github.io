@@ -17,6 +17,7 @@ body {
 
 .img {
 	background-image: url("../image/housesketch.png");
+	background-size: cover;
 	height: 392px;
 	background-attachment: fixed;
 }
