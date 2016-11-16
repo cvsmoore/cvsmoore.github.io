@@ -7,10 +7,18 @@
 	box-sizing: border-box;
 }
 
+
 body {
 	font-size: 20px;
 	line-height: 1.5;
-	font-family: "Open Sans", "Sans-serif;"
+	font-family: "Open Sans", "Sans-serif";	
+}
+
+
+.img {
+	background-image: url("../image/housesketch.png");
+	height: 721px;
+	background-attachment: fixed;
 }
 
 h1 {
@@ -51,12 +59,6 @@ nav a {
 nav a:hover {
 	background-color:#FFE2B8 ;
 }
-
-h2 {
-		background-image: url(image/housesketch.png);
-		background-size: cover;
-}
-
 
 .about {
 	background-color: #FFC675;
@@ -120,5 +122,5 @@ div{
 
 	height: 0;
 	font-size: 0;
-	visibility; hidden;
+	visibility: hidden;
 }
