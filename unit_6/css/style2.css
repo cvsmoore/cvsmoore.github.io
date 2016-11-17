@@ -60,12 +60,27 @@ nav a:hover {
 	background-color: #8CB8D3 ;
 }
 
-.about {
+#two_column{
+	background-color: #FFB7C8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
 	background-color: #FF9284;
 	padding: 20px;
 	border-bottom: 1px solid grey;
 	float: left;
-	width: 100%;
+	width: 30%;
+	color: #FFFFFF;
+}
+
+#right {
+	background-color: #FF9284;
+	padding: 20px;
+	border-bottom: 1px solid grey;
+	float: left;
+	width: 	62%;
 	color: #FFFFFF;
 }
 
